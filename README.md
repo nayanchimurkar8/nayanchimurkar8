@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nayan Chimurkar
 
-<!--
-**nayanchimurkar8/nayanchimurkar8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am currently pursuing a **Master of Computer Applications (MCA)** at **MES IMCC, Pune**.
 
-Here are some ideas to get you started:
+📊 I have completed my **B.Sc. in Data Science**, which helped me build a strong foundation in **Data Analysis, Programming, Statistics, and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I am passionate about **Technology, Data Science, Artificial Intelligence, and Software Development**. I enjoy learning new technologies, building projects, and continuously improving my technical and problem-solving skills.
+
+🚀 Welcome to my GitHub profile! Here you'll find my projects, experiments, and learning journey.
+
+### 🌱 Currently Learning
+
+* Data Science & Machine Learning
+* Software Development
+* Artificial Intelligence
+* Programming & Problem Solving
+
+### 🤝 Let's Connect
+
+Feel free to explore my repositories and connect with me!
+
+**Happy Coding! 🚀**
+# Nayan-Chimurkar
+Git hub demo
