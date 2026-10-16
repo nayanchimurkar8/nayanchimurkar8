@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <i>"Learning continuously. Building consistently. Growing every day."</i>
+  <i>"Learning, Building Skills and Growing every day."</i>
 </p>
 
 <p align="center">
