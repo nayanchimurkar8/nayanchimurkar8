@@ -5,7 +5,7 @@
 <h3 align="center">MCA Student | Data Science Graduate | Aspiring Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+Technology;Exploring+Data+Science+%26+AI;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Interested+in+Technology;Exploring+Data+Science+%26+AI;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
 </p>
 
 ---
