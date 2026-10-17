@@ -28,15 +28,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanchimurkar8&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</p>
-
----
-
 ### 🚀 Featured Interests
 
 - 🎬 Movie Ratings & Reviews Analysis
