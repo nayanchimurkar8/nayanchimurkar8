@@ -1,57 +1,80 @@
-<!-- PROFESSIONAL GITHUB PROFILE README -->
+# Hi 👋, I'm Nayan Chimurkar
 
-<h1 align="center">Hi 👋, I'm Nayan Chimurkar</h1>
+### MCA Student | Data Science Graduate | Aspiring Software Developer
 
-<h3 align="center">MCA Student | Data Science Graduate | Aspiring Developer</h3>
+I'm currently pursuing my **Master of Computer Applications (MCA) at MES IMCC, Pune**, with a background in Data Science. I enjoy exploring new technologies, developing programming skills, and building projects that combine software development, data analysis, and problem-solving.
+
+---
+
+## About Me
+
+- 🎓 Pursuing MCA at **MES IMCC, Pune**
+- 📊 Graduate in **B.Sc. Data Science**
+- 💻 Interested in **Software Development, Data Science, and Artificial Intelligence**
+- 🌱 Currently strengthening my skills in **Python, SQL, and Data Structures & Algorithms**
+- 🔍 Exploring data analysis, machine learning, and practical software applications
+- 🚀 Learning by building projects and solving programming challenges
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+- Python
+
+**Database**
+- MySQL
+
+**Web Technologies**
+- HTML, CSS, JavaScript
+
+**Tools & Platforms**
+- Git, GitHub, Visual Studio Code
+
+**Areas of Interest**
+- Data Science & Analytics
+- Artificial Intelligence & Machine Learning
+- Software Development
+- Data Structures & Algorithms
+
+---
+
+## Projects & Interests
+
+### 🎬 Movie Ratings & Reviews Analysis
+Exploring movie ratings, reviews, and related data to identify trends and insights through data analysis and visualization.
+
+### 🐍 Python Programming
+Practicing programming fundamentals, problem-solving techniques, and data structures to build a strong foundation in software development.
+
+---
+
+## GitHub Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Interested+in+Technology;Exploring+Data+Science+%26+AI;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanchimurkar8&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanchimurkar8&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Pursuing **MCA at MES IMCC, Pune**
-- 📊 Graduate in **B.Sc. Data Science**
-- 💡 Interested in **Software Development, AI, and Data Science**
-- 🌱 Currently improving my skills in **Python, SQL, and Data Structures**
-- 🚀 Focused on building projects and solving real-world problems
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode" alt="Technology skills" />
-</p>
-
----
-
-### 🚀 Featured Interests
-
-- 🎬 Movie Ratings & Reviews Analysis
-- 🐍 Python Programming
-- 📈 Data Analysis & Visualization
-- 🤖 Artificial Intelligence & Machine Learning
-
----
-
-### 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/nayanchimurkar8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <!-- Add your LinkedIn URL when available -->
 </p>
 
 ---
 
 <p align="center">
-  <i>"Learning, Building Skills and Growing every day."</i>
+  <i>"Learn continuously. Build consistently. Improve every day."</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile! ⭐
 </p>
