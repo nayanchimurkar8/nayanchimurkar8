@@ -1,80 +1,130 @@
-# Hi 👋, I'm Nayan Chimurkar
+ <div align="center">
 
-### MCA Student | Data Science Graduate | Aspiring Software Developer
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nayan%20Chimurkar&fontSize=50&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&stroke=36BCF7&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=Software%20Development%20%7C%20Data%20Science%20%7C%20AI&descSize=16&descAlignY=65" width="100%" alt="Animated profile banner"/>
 
-I'm currently pursuing my **Master of Computer Applications (MCA) at MES IMCC, Pune**, with a background in Data Science. I enjoy exploring new technologies, developing programming skills, and building projects that combine software development, data analysis, and problem-solving.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=MCA+Student+%40+MES+IMCC%2C+Pune;Data+Science+Graduate;Exploring+Software+Development+%26+AI;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+</a>
+
+<p>
+<a href="https://github.com/nayanchimurkar8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Data%20Science-Explore-16A085?style=for-the-badge" alt="Data Science"/>
+</p>
+
+</div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-- 🎓 Pursuing MCA at **MES IMCC, Pune**
-- 📊 Graduate in **B.Sc. Data Science**
-- 💻 Interested in **Software Development, Data Science, and Artificial Intelligence**
-- 🌱 Currently strengthening my skills in **Python, SQL, and Data Structures & Algorithms**
-- 🔍 Exploring data analysis, machine learning, and practical software applications
-- 🚀 Learning by building projects and solving programming challenges
+Hey! I'm **Nayan Chimurkar**, an MCA student with a background in Data Science and a growing interest in building practical software solutions.
+
+I enjoy exploring technology, strengthening my programming fundamentals, working with data, and learning how intelligent applications are developed.
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at MES IMCC, Pune
+- 📊 Completed **B.Sc. in Data Science**
+- 💻 Learning and practicing **Python, SQL, and Data Structures**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, and Data Analytics**
+- 🚀 Focused on continuous learning, problem-solving, and project development
 
 ---
 
-## Technical Skills
+## `$ tech_stack --list`
 
-**Programming Languages**
-- Python
+<div align="center">
 
-**Database**
-- MySQL
+### Languages & Database
 
-**Web Technologies**
-- HTML, CSS, JavaScript
+<img src="https://skillicons.dev/icons?i=python,mysql,js&theme=dark" alt="Python, MySQL and JavaScript"/>
 
-**Tools & Platforms**
-- Git, GitHub, Visual Studio Code
+### Web Development
 
-**Areas of Interest**
-- Data Science & Analytics
-- Artificial Intelligence & Machine Learning
-- Software Development
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+
+</div>
+
+---
+
+## `$ current_focus`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+- Python programming
 - Data Structures & Algorithms
+- SQL and database fundamentals
+- Web development basics
+- Logical thinking and problem-solving
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Science & AI
+
+- Data analysis and visualization
+- Exploring machine learning
+- Movie ratings and reviews analysis
+- Understanding data patterns
+- AI-powered application concepts
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Projects & Interests
+## `$ projects --featured`
 
 ### 🎬 Movie Ratings & Reviews Analysis
-Exploring movie ratings, reviews, and related data to identify trends and insights through data analysis and visualization.
 
-### 🐍 Python Programming
-Practicing programming fundamentals, problem-solving techniques, and data structures to build a strong foundation in software development.
+An academic project focused on exploring movie information, ratings, reviews, and trends through data analysis and visualization.
 
----
+**Areas of interest:** Data cleaning · Rating analysis · Visualization · Insights
 
-## GitHub Profile
+### 🐍 Python Practice
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanchimurkar8&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-</p>
+A collection of programming exercises to strengthen problem-solving skills and understanding of core programming concepts.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanchimurkar8&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
-</p>
+<a href="https://github.com/nayanchimurkar8/python-practice">
+<img src="https://img.shields.io/badge/View%20Python%20Practice-Repository-181717?style=for-the-badge&logo=github" alt="View Python Practice Repository"/>
+</a>
 
 ---
 
-## Connect With Me
+## `$ github --overview`
 
-<p align="left">
-  <a href="https://github.com/nayanchimurkar8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=nayanchimurkar8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanchimurkar8&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanchimurkar8&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Learn continuously. Build consistently. Improve every day."</i>
-</p>
+## `$ connect`
 
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+<div align="center">
+
+<a href="https://github.com/nayanchimurkar8">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+
+*Interested in technology, driven by curiosity, and always ready to learn something new.*
+
+### `while (learning) { build(); improve(); repeat(); }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
